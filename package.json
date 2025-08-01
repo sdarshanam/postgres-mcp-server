@@ -1,6 +1,6 @@
 {
-  "name": "@ahmedmustahid/postgres-mcp-server",
-  "version": "0.8.4",
+  "name": "@sdarshanam/postgres-mcp-server",
+  "version": "0.8.5",
   "description": "MCP server for interacting with PostgreSQL databases",
   "license": "MIT",
   "author": "Ahmed Mustahid",
@@ -76,6 +76,6 @@
   "main": "dist/src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmedmustahid/postgres-mcp-server"
+    "url": "https://github.com/sdarshanam/postgres-mcp-server"
   }
 }
